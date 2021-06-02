@@ -1,3 +1,0 @@
-# -*- coding: utf -*-
-def main():
-  
